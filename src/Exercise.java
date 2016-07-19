@@ -7,7 +7,7 @@
  * A number is shown a number on the screen and then the user is asked to enter "yes","end","lower" or "higher."
  * The "yes" or "end" indicate that the correct number is displayed on the screen. The "higher" means that the 
  * value that the user had in mind is higher than the number that is displayed. The "lower" means that the value that the 
- * user had in mind is lower than what is displayed.
+ * user had in mind is lower than what is displayed
  */
 
 import javax.swing.JOptionPane;
