@@ -10,7 +10,6 @@
  * user had in mind is lower than what is displayed
  */
 
-//Comment from the document repo
 import javax.swing.JOptionPane;
 public class Exercise {
 
